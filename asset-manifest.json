@@ -1,0 +1,40 @@
+{
+  "files": {
+    "main.css": "/react_project/static/css/main.ae6301b7.css",
+    "main.js": "/react_project/static/js/main.473caa7c.js",
+    "static/js/787.8fb10506.chunk.js": "/react_project/static/js/787.8fb10506.chunk.js",
+    "static/media/headingImg.png": "/react_project/static/media/headingImg.063398d99846cb10f031.png",
+    "static/media/9.png": "/react_project/static/media/9.137a3b8081b2d57064d1.png",
+    "static/media/banner1.jpg": "/react_project/static/media/banner1.d9a4e4e8cf70be85be2d.jpg",
+    "static/media/banner2.jpg": "/react_project/static/media/banner2.0fed37181e70fc337093.jpg",
+    "static/media/pic3.png": "/react_project/static/media/pic3.4097c2f1cf4132187d8f.png",
+    "static/media/teacher.png": "/react_project/static/media/teacher.22cdd8e6434493fa7286.png",
+    "static/media/Intro.jpg": "/react_project/static/media/Intro.1498eb3bfc6753fed54a.jpg",
+    "static/media/logo2.png": "/react_project/static/media/logo2.84d1c3dd79b580f56928.png",
+    "static/media/HeadingGirls.png": "/react_project/static/media/HeadingGirls.c589c69ab718bc2ae24d.png",
+    "static/media/news3.jpg": "/react_project/static/media/news3.f1a4a16654cfc9a18030.jpg",
+    "static/media/pic6.jpg": "/react_project/static/media/pic6.f1a4a16654cfc9a18030.jpg",
+    "static/media/news5.jpg": "/react_project/static/media/news5.23b471a8636a732dfb1c.jpg",
+    "static/media/pic8.jpg": "/react_project/static/media/pic8.a581255448e7a4a5d20a.jpg",
+    "static/media/news6.jpg": "/react_project/static/media/news6.e5822604285a10792802.jpg",
+    "static/media/news4.jpg": "/react_project/static/media/news4.6a2409810fa9232d495c.jpg",
+    "static/media/pic7.jpg": "/react_project/static/media/pic7.6a2409810fa9232d495c.jpg",
+    "static/media/news1.jpg": "/react_project/static/media/news1.b9982e625569d2a62b09.jpg",
+    "static/media/news2.jpg": "/react_project/static/media/news2.34f3b5ec7f08f91abe9d.jpg",
+    "static/media/pic5.jpg": "/react_project/static/media/pic5.34f3b5ec7f08f91abe9d.jpg",
+    "static/media/pic4.jpg": "/react_project/static/media/pic4.b24e35a3a3198764138f.jpg",
+    "static/media/pic1.png": "/react_project/static/media/pic1.6e0be1d11d5a565d992b.png",
+    "static/media/pic2.png": "/react_project/static/media/pic2.0b6497628ec434e330e9.png",
+    "static/media/headingSign.png": "/react_project/static/media/headingSign.9fb5ad191b0debdc2d4e.png",
+    "static/media/5.png": "/react_project/static/media/5.d2301234e30aedd36fe8.png",
+    "static/media/2.png": "/react_project/static/media/2.8b11678f1cb3cfa7ca2c.png",
+    "index.html": "/react_project/index.html",
+    "main.ae6301b7.css.map": "/react_project/static/css/main.ae6301b7.css.map",
+    "main.473caa7c.js.map": "/react_project/static/js/main.473caa7c.js.map",
+    "787.8fb10506.chunk.js.map": "/react_project/static/js/787.8fb10506.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ae6301b7.css",
+    "static/js/main.473caa7c.js"
+  ]
+}
